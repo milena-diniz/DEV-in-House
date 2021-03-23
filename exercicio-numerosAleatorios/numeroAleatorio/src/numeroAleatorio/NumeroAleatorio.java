@@ -2,7 +2,7 @@ package numeroAleatorio;
 
 import java.util.Random;
 
-public class Main {
+public class NumeroAleatorio {
 
     public static void main(String[] args) {
         Random aleatorio = new Random();
