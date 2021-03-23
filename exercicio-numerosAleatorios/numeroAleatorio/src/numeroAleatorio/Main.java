@@ -1,4 +1,4 @@
-package com.company;
+package numeroAleatorio;
 
 import java.util.Random;
 
