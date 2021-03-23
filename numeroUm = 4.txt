@@ -1,0 +1,12 @@
+numeroUm = 4
+numeroDois = 5
+numeroTres = 8
+
+function soma (primeiroNumero, segundoNumero) {
+    return 
+    primeiroNumero + segundoNumero 
+}
+
+soma (numeroDois, numeroTres )
+soma (numeroUm, numeroDois )
+soma (1,15)
