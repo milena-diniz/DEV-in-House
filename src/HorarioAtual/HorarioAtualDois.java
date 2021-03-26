@@ -1,4 +1,4 @@
-package horarioAtual;
+package HorarioAtual;
 
 import java.util.Calendar;
 

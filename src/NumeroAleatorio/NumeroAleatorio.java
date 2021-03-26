@@ -1,4 +1,4 @@
-package numeroAleatorio;
+package NumeroAleatorio;
 
 import java.util.Random;
 
